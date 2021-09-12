@@ -1,0 +1,10 @@
+{
+    "project": "CryptoGourmet",
+    "tags": CryptoGourmet
+    "policies": [
+        "4db0ce3b5c46669b88adf6035bd240fccd28ff2debd0bd1d0d1f2169",
+        "1495516a4b9388e297f7ddc84254d801a9c14e81d09d47dc92b1fb77", 
+        "6f1d98dc074da8b969b4cf32a4091b22bec05aed2e42be03d2626260",
+        "e949b6fcd11ae7409c5c65cf646973c3130d71161e1e92bef4c73c01"
+    ]
+}
